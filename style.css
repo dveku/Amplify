@@ -2,6 +2,7 @@ body {
     marigin: 0;
     font-family: "Work Sans", sans-serif;
     font-weight: 300;
+    background-color: rgba(0, 0, 0, 0.942);
 }
 
 .container {
@@ -21,14 +22,12 @@ header::after {
 
 .brand {
     float: left;
-    color: white;
+    color: violet;
     display: flex;
 }
 
 .logo {
     float: left;
-    padding: 10px 0;
-    color: white;
 }
 
 .class {
@@ -48,7 +47,7 @@ nav ul {
 nav li {
     display: inline-block;
     margin-left: 70px;
-    padding-top: 23px;
+    padding-top: 35px;
     position: relative;
 }
 
